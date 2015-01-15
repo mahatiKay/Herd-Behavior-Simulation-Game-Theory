@@ -1,0 +1,69 @@
+Therd_behaviour
+v7
+r0
+t405845510.249381
+cCheck dependencies
+cCompileC build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o /Users/MatteHome/Documents/herd_behaviour/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c0000000051D8F33000000000000000EE
+t1373172528
+s238
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004DEEB8140000000000043360
+t1307490324
+s275296
+
+N/Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour
+t1384152710
+s28872
+
+N/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/herd_behaviour.LinkFileList
+c0000000052807E84000000000000007D
+t1384152708
+s125
+
+N/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o
+t1384152709
+s89772
+
+N/Users/MatteHome/Documents/herd_behaviour/main.cpp
+c000000005280779F000000000000008F
+t1384150943
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies405845508#405845508#0(0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o /Users/MatteHome/Documents/herd_behaviour/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s405845508.980070
+e405845509.742417
+r1
+xCompileC
+xbuild/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o
+x/Users/MatteHome/Documents/herd_behaviour/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/MatteHome/Documents/herd_behaviour/main.cpp405845509#405845509#0(0"0(0#0#50"/Users/MatteHome/Documents/herd_behaviour/main.cpp3414973617650413056#1497"    cd /Users/MatteHome/Documents/herd_behaviour    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/herd_behaviour-generated-files.hmap -I/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/herd_behaviour-own-target-headers.hmap -I/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/herd_behaviour-all-target-headers.hmap -iquote /Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/herd_behaviour-project-headers.hmap -F/Users/MatteHome/Documents/herd_behaviour/build/Debug -I/Users/MatteHome/Documents/herd_behaviour/build/Debug/include -I/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/DerivedSources/x86_64 -I/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/DerivedSources -c /Users/MatteHome/Documents/herd_behaviour/main.cpp -o /Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour normal x86_64
+s405845509.742541
+e405845510.249308
+r1
+xLd
+x/Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour405845509#405845510#0(0"0(0#0#0"4300882208#575"    cd /Users/MatteHome/Documents/herd_behaviour    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/MatteHome/Documents/herd_behaviour/build/Debug -F/Users/MatteHome/Documents/herd_behaviour/build/Debug -filelist /Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/herd_behaviour.LinkFileList -mmacosx-version-min=10.6 -framework GLUT -framework OpenGL -o /Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour0#
+

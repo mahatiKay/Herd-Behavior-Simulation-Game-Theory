@@ -1,0 +1,163 @@
+Therd_behaviour
+v7
+r0
+t422442367.973819
+cCheck dependencies
+cCompileC build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o /Users/MatteHome/Documents/herd_behaviour/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd /Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c0000000051D8F33000000000000000EE
+t1373172528
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/GLUT.framework/Headers/glut.h
+c000000004A124745000000000000578C
+t1242711877
+s22412
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004DEEB8140000000000043360
+t1307490324
+s275296
+
+N/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/game.h
+c00000000536A1B720000000000002F0D
+t1399462770
+s12045
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i"postfix_eval.h"
+i"in_postfix.h"
+
+N/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/in_postfix.h
+c000000005280821800000000000009A7
+t1384153624
+s2471
+i<stdio.h>
+
+N/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h
+c00000000527DDED4000000000000070C
+t1383980756
+s1804
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+
+N/Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour
+t1400749567
+s37552
+
+N/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/herd_behaviour.LinkFileList
+c0000000052807E84000000000000007D
+t1384152708
+s125
+
+N/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o
+t1400749567
+s94632
+
+N/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/untitled.o
+t2
+s0
+
+N/Users/MatteHome/Documents/herd_behaviour/game1.h
+c00000000536A222A0000000000002CFF
+t1399464490
+s11519
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+i"postfix_eval.h"
+i"in_postfix.h"
+
+N/Users/MatteHome/Documents/herd_behaviour/main.cpp
+c00000000537DBDFF00000000000016F2
+t1400749567
+s5874
+i<iostream>
+i<string.h>
+i<GLUT/glut.h>
+i"game1.h"
+
+N/Users/MatteHome/Documents/herd_behaviour/untitled.c
+c0000000053105EAB00000000000000A5
+t1393581739
+s165
+i"untitled.h"
+
+N/Users/MatteHome/Documents/herd_behaviour/untitled.h
+c0000000053105EAB000000000000008E
+t1393581739
+s142
+
+N/Users/MatteHome/Downloads/herdcode/in_postfix.h
+c000000005280821800000000000009A7
+t1384153624
+s2471
+i<stdio.h>
+
+N/Users/MatteHome/Downloads/herdcode/postfix_eval.h
+c00000000527DDED4000000000000070C
+t1383980756
+s1804
+i<stdio.h>
+i<stdlib.h>
+i<math.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies422442367#422442367#0(0"0(0#1#0"4300882208#0"0#
+
+CCompileC build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o /Users/MatteHome/Documents/herd_behaviour/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s422442367.521237
+e422442367.948368
+r1
+xCompileC
+xbuild/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o
+x/Users/MatteHome/Documents/herd_behaviour/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#422442367#0(1049"In file included from /Users/MatteHome/Documents/herd_behaviour/game1.h:5,                 from /Users/MatteHome/Documents/herd_behaviour/main.cpp:5:/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h: In function 'int displays()':/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h:46: warning: unused variable 'i'/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h: In function 'int postfix_eval(char*, int)':/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h:54: warning: unused variable 'k'In file included from /Users/MatteHome/Documents/herd_behaviour/main.cpp:5:/Users/MatteHome/Documents/herd_behaviour/game1.h: In function 'int cost_function(int, int)':/Users/MatteHome/Documents/herd_behaviour/game1.h:416: warning: unused variable 'i'/Users/MatteHome/Documents/herd_behaviour/game1.h:416: warning: unused variable 'max'/Users/MatteHome/Documents/herd_behaviour/game1.h:416: warning: unused variable 'index'5(22@19"Unused variable 'i'422442367#264#115#3(7@72"In file included from /Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#18446744073709551615#0#0(6@50"/Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#5#0#5#0#0"0(7@71"In file included from /Users/MatteHome/Documents/herd_behaviour/game1.h422442367#18446744073709551615#0#0(6@49"/Users/MatteHome/Documents/herd_behaviour/game1.h421157290#5#0#5#0#0"0(13@104"Unused variable 'i' in /Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h422442367#18446744073709551615#0#0(6@81"/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h405673556#46#0#46#0#0"0(6@81"/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h405673556#46#0#46#0#19"unused variable '*'0(22@19"Unused variable 'k'422442367#506#115#3(7@72"In file included from /Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#18446744073709551615#0#0(6@50"/Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#5#0#5#0#0"0(7@71"In file included from /Users/MatteHome/Documents/herd_behaviour/game1.h422442367#18446744073709551615#0#0(6@49"/Users/MatteHome/Documents/herd_behaviour/game1.h421157290#5#0#5#0#0"0(13@104"Unused variable 'k' in /Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h422442367#18446744073709551615#0#0(6@81"/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h405673556#54#0#54#0#0"0(6@81"/Users/MatteHome/Documents/herd_behaviour/../../Downloads/herdcode/postfix_eval.h405673556#54#0#54#0#19"unused variable '*'0(22@19"Unused variable 'i'422442367#791#84#2(7@72"In file included from /Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#18446744073709551615#0#0(6@50"/Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#5#0#5#0#0"0(13@72"Unused variable 'i' in /Users/MatteHome/Documents/herd_behaviour/game1.h422442367#18446744073709551615#0#0(6@49"/Users/MatteHome/Documents/herd_behaviour/game1.h421157290#416#0#416#0#0"0(6@49"/Users/MatteHome/Documents/herd_behaviour/game1.h421157290#416#0#416#0#19"unused variable '*'0(22@21"Unused variable 'max'422442367#875#86#2(7@72"In file included from /Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#18446744073709551615#0#0(6@50"/Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#5#0#5#0#0"0(13@74"Unused variable 'max' in /Users/MatteHome/Documents/herd_behaviour/game1.h422442367#18446744073709551615#0#0(6@49"/Users/MatteHome/Documents/herd_behaviour/game1.h421157290#416#0#416#0#0"0(6@49"/Users/MatteHome/Documents/herd_behaviour/game1.h421157290#416#0#416#0#19"unused variable '*'0(22@23"Unused variable 'index'422442367#961#88#2(7@72"In file included from /Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#18446744073709551615#0#0(6@50"/Users/MatteHome/Documents/herd_behaviour/main.cpp422442367#5#0#5#0#0"0(13@76"Unused variable 'index' in /Users/MatteHome/Documents/herd_behaviour/game1.h422442367#18446744073709551615#0#0(6@49"/Users/MatteHome/Documents/herd_behaviour/game1.h421157290#416#0#416#0#0"0(6@49"/Users/MatteHome/Documents/herd_behaviour/game1.h421157290#416#0#416#0#19"unused variable '*'0(0#0#50"/Users/MatteHome/Documents/herd_behaviour/main.cpp4300882208#1497"    cd /Users/MatteHome/Documents/herd_behaviour    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/herd_behaviour-generated-files.hmap -I/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/herd_behaviour-own-target-headers.hmap -I/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/herd_behaviour-all-target-headers.hmap -iquote /Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/herd_behaviour-project-headers.hmap -F/Users/MatteHome/Documents/herd_behaviour/build/Debug -I/Users/MatteHome/Documents/herd_behaviour/build/Debug/include -I/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/DerivedSources/x86_64 -I/Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/DerivedSources -c /Users/MatteHome/Documents/herd_behaviour/main.cpp -o /Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/untitled.o /Users/MatteHome/Documents/herd_behaviour/untitled.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CLd /Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour normal x86_64
+s422442367.948438
+e422442367.973768
+r1
+xLd
+x/Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour
+xnormal
+xx86_64
+lSLF07#2@73"Link /Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour422442367#422442367#0(0"0(0#0#0"4300882208#575"    cd /Users/MatteHome/Documents/herd_behaviour    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/MatteHome/Documents/herd_behaviour/build/Debug -F/Users/MatteHome/Documents/herd_behaviour/build/Debug -filelist /Users/MatteHome/Documents/herd_behaviour/build/herd_behaviour.build/Debug/herd_behaviour.build/Objects-normal/x86_64/herd_behaviour.LinkFileList -mmacosx-version-min=10.6 -framework GLUT -framework OpenGL -o /Users/MatteHome/Documents/herd_behaviour/build/Debug/herd_behaviour0#
+
